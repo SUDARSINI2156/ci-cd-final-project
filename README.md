@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# CI/CD Final Project
+# ci-cd-final-project
 
 This project demonstrates a CI/CD pipeline using:
 
@@ -11,6 +10,7 @@ This project demonstrates a CI/CD pipeline using:
 - Nose unit testing
 
 Author: SUDARSINI2156
-=======
-# ci-cd-project
->>>>>>> 0da3cfe22ce976fb61eb23398a32c5d18118fd7d
+
+git add README.md
+git commit -m "fixed README merge conflict and project name"
+git push
